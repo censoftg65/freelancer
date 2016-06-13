@@ -1,0 +1,126 @@
+*{ margin:0; padding:0; transition-delay:0;
+    transition-duration:.6s;
+	transition-property:all;
+	transition-timing-function:ease}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+a { outline:none; transition-delay:0; transition-duration:.6s; transition-property:all;	transition-timing-function:ease;}
+img{ border:none; outline:none;}
+h1,h2,h3,h4,h5,h6,form,ul,li,p,select,option,textarea{ margin:0; padding:0;}
+body{ padding:0px; margin:0px; background:#ffffff; font-family: 'Open Sans', sans-serif;}
+.padding0{ padding:0 !important;}
+.header-section{ background:#fff;}
+.logo{ padding:7px 15px 0;}
+.nav-section ul{ margin:0; padding:0; list-style:none;}
+.nav-section ul li{ display: inline; line-height: 70px;}
+.nav-section ul li a{ color:#2c2c2c; font-size:17px; font-family: 'Open Sans', sans-serif; font-weight:700; padding: 0 23px 0 24px;}
+.nav-section ul li a:hover{ background:#17a1e6; color:#fff;}
+.login-section{ width:30%}
+.login-section ul{ margin:0; padding:0; list-style:none;}
+.login-section  ul li{ display: inline; line-height: 70px; padding:0 15px 0 1px; float: right;}
+.login-section  ul li a{ color:#494949; font-size:16px; font-family: 'Open Sans', sans-serif; font-weight:700; text-transform:uppercase;}
+.login-section ul li a.post-job { background: #f98310; border-radius: 6px; color: #fff; font-size: 16px; font-weight: 600; margin: 0 0 0 12px; padding: 6px 21px; text-transform: capitalize;}
+.login-section  ul li a.post-job:hover{ color:#000; text-decoration:none;}
+.login-section  ul li a:hover{ color:#17a1e6; text-decoration:none;}
+
+.banner-section{ background:url(../images/boostnext/banner.jpg) left top no-repeat; background-size:cover; height:720px;}
+.banner-text { padding: 131px 0 0 15px; width: 616px;}
+.banner-text h1{ color:#f7f8fa; font-size:50px; font-weight:700; line-height: 60px;}
+.banner-text p { color: #fff; font-size: 27px; line-height: 32px; padding: 39px 0 33px;}
+.banner-text button{ background:none; border:1px solid #fff; border-radius:11px; width:150px; text-align:center; line-height:73px; color:#fff; font-size:28px; font-weight:700; margin:0 12px 0 0;}
+.banner-text button:hover{ background:#fff; color:#000;}
+
+
+
+.container-section1{ background:#f7f8fa; padding:56px 0 70px 0; border-bottom:2px solid #f3f4f7;}
+.container-section1 h3{color: #010101; font-size: 30px; font-weight: 700; padding: 0 0 18px; }
+.container-section1 p{ color:#333f5b; font-size:18px;}
+.container-section1 p.link{ color: #17a1e6; font-size: 16px; padding: 49px 0 0; font-weight: 700; }
+.container-section1 p.link a{ color:#17a1e6;}
+.container-section1 p.link a:hover{ color:#000; text-decoration:none;}
+.box p{ color:#1f1f1f; font-size:15px; line-height:18px;}
+.box h6{color:#000; font-size:18px; padding:0 0 23px 0; font-weight: 800;  }
+.container-section2{ background:#ffffff; padding:60px 0 46px 0;}
+.container-section2 h2{color: #000; font-size: 48px; font-weight: 700; padding: 0 0 27px;}
+.container-section2 h6{color:#1b1b1b; font-size:16px; padding:0 0 0px 0; font-weight: 800;}
+.box2 {padding:60px 0;}
+.box2 h5{color:#000; font-size:18px; padding:0 0 15px 0; font-weight: 700;  }
+.box2 p{ color:#757575; font-size:13px;}
+.container-section3{ background:#0e1624; padding:63px 0 106px 0;}
+.container-section3 h2{color: #fff; font-size: 48px; font-weight: 700; padding: 0 0 30px;}
+.container-section3 h6{color:#fff; font-size:16px; padding:0 0 0px 0; font-weight: 800;}
+.box3{ background:#fff; border-radius:5px; margin:61px 0 0 0; padding:48px 0 27px 0; min-height:362px; }
+.box3-btn{ border:2px solid #878d9b; border-radius:5px; width:142px; text-align:center; float:left; line-height:61px; margin: 16px 10px 0 0;    }
+.box3-btn a{ width:138px; float:left; color:#575e6f; font-size:24px;  font-weight: 700; }
+.box3-btn a:hover{ color:#fff; background:#69BCE3; text-decoration:none;}
+.container-section4 a:hover{ color:#000; text-decoration:none; }
+.container3{margin: 0 auto; width: 60%;}
+.container4{ margin: 14px auto 0; width: 49%;}
+.container4 p{ margin:16px 16px 0 0; float:left; font-style:italic; color:#3c3c3c; font-weight:300;}
+.container4 p img{ margin:0 9px 0 0;}
+.container-section4{ background:#ffffff; padding:63px 0 67px 0;}
+.container-section4 h2{color: #2c3747; font-size: 30px; font-weight: 600; padding: 0 0 30px;}
+.container-section4 h6 { color: #2c3747; font-size: 18px; font-weight: 400; line-height: 26px; margin: 0 auto; padding: 0; width: 75%;}
+.box4{ background:#fff; border-top:4px solid #58bb66; border-right:2px solid #c2c6cc; border-bottom:2px solid #c2c6cc; border-left:2px solid #c2c6cc; margin:61px 0 0 0; padding:22px 0 27px 0; min-height:290px; }
+button.green-btn{ margin:0 0 0 22px; background:none; border-radius:7px; line-height:26px; border:1px solid #55bb63; padding:0 13px; font-size:13px; color:#55bb63; font-weight:700; text-transform:uppercase;}
+button.green-btn:hover{ border:1px solid #000; color:#000;}
+.box4 h3{ line-height: 32px; margin: 19px 0 9px 22px; color:#2c3747; font-size:22px;}
+.view-project a{ color:#2689d6; font-size:13px; padding:0 0 51px 7px; float:left; width:100%;}
+.view-project a:hover{ color:#000; text-decoration:none;}
+.price{  padding:0 0 0px 7px; color:#46463f; font-size:24px;}
+.price span{ color:#61615e; font-size:11px; }
+.silver-btn{ text-align:right;}
+.silver-btn button{ color:#666662; font-size:13px; background:#f2f2f2; border:1px solid #c2c6cc; padding:0 11px;border-radius: 7px; line-height: 26px; margin: 0 0 9px;}
+.silver-btn button:hover{ color:#000;}
+.post-job1 { background: #f98310; border-radius: 6px; color: #fff; font-size: 22px; font-weight: 700; margin: 0 0 0 12px; padding: 12px 38px; text-transform: capitalize;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-section{ background:#1e2635;}
+.footer-top{  float: left; padding: 60px 0 108px; width: 100%;}
+.footer-top h3{ color:#fff; font-size:17px; font-weight:600; padding:0 0 20px 0;}
+.footer-top ul{ padding:0; margin:0; list-style:none; }
+.footer-top ul li{ display:block; padding:0 0 7px 0;}
+.footer-top ul li a{ color:#d5dee0; font-size:13px; }
+.footer-top ul li a:hover{ color:#17A1E6; text-decoration:none;}
+.social-icon a{ margin:0 6px 0 0;}
+.footer-bottom{ border-top:1px solid #161e2c; padding:34px 0 8px 0;  float: left; width: 100%; }
+.footer-bottom ul{ margin:0 0 7px; padding:0; list-style:none;}
+.footer-bottom ul li{ padding:0 7px 0 9px; display:inline; background:url(../images/boostnext/footer-divider.jpg) left 5px no-repeat;}
+.footer-bottom ul li:first-child{ background:none; padding:0 7px 0 0px;}
+.footer-bottom ul li a{ color:#fff; font-size:12px;}
+.footer-bottom ul li a:hover{ color:#17A1E6; text-decoration:none;}
+.footer-bottom p{ color:#e4e2e2; font-size:11px; line-height: 18px;}
+.social-icon ul{ margin:0; padding:0; list-style:none;}
+.social-icon ul li{ display:inline; padding:0;}
+.social-icon ul li a{ background: #878d9b ; border-radius: 50%; color: #1e2635; float: left; height: 24px; padding: 5px 0; text-align: center; width: 24px;}
+.social-icon ul li a:hover{ text-decoration:none; color:#fff;}
+.social-icon ul li.facebook a:hover{background: #3C5A99 ;}
+.social-icon ul li.twitter a:hover{ background: #33A6DF ;}
+.social-icon ul li.google-plus a:hover{ background: #DA4835 ;}
+.social-icon ul li.youtube a:hover{ background: #C8302A ;}
+
+
+
+
+
+
+
+
+
+

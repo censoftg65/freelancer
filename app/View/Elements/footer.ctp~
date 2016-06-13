@@ -1,0 +1,57 @@
+<footer class="container-fluid footer-section">
+    <div class="container cont-cent cont-cent2">
+        <div class="footer-top row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 social-icon">
+                <ul>
+                    <li class="facebook"><a href="#"><i class="fa icon-facebook fa-facebook"></i></a></li>
+                    <li class="twitter"><a href="#"><i class="fa icon-twitter fa-twitter"></i></a></li>
+                    <li class="google-plus"><a href="#"><i class="fa icon-google-plus fa-google-plus"></i></a></li>
+                    <li class="youtube"><a href="#"><i class="fa fa-youtube icon-youtube"></i></a></li>
+                </ul>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 footrgt">
+                <div class="col-sm-2">
+                    <h3>About</h3>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="#">How it Works</a></li>
+                        <li><a href="#">Report Bug</a></li>
+                        <li><a href="#">Fees &amp; Charges</a></li>
+                        <li><a href="#">Faq</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h3>Jobs</h3>
+                    <ul>
+                        <li><a href="#">League of Legends</a></li>
+                        <li><a href="#">CS:GO</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h3>Expert Gamer</h3>
+                    <ul>
+                        <li><a href="#">League of Legends</a></li>
+                        <li><a href="#">CS:GO</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-2 pull-right">
+                    <h3>Get in Touch</h3>
+                    <ul>
+                        <li><a href="#">Get Support</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms and Conditions</a></li>
+                <li><a href="#">Copyright Infringement Policy</a></li>
+                <li><a href="#">Code of Conduct</a></li>
+            </ul>
+            <p>Boost Next is a registered  Trademark of Boost Next Pty Ltd (ACN 192 182 348)</p>
+            <p> Copyright 2016 Boost Next Pty LTD (ACN 192 182 348)</p>
+        </div>
+    </div>
+</footer>

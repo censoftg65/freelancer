@@ -1,0 +1,42 @@
+<div class="hide-login">
+    <div class="landtop set-main">
+                    <?php echo $this->Html->image('/img/closebtn.png',array('class'=>'closebtn','alt'=>'Boostnext','title'=>'Boostnext'));?>
+        <div id="login" class="login text-center">
+            <div class="pinhp-form-inner">
+                <div id="login-form-div" >
+                    <button class="btn-facebook gaf-fb-connected-button btn btn-large" data-track_click="true" data-category="pinterest_button"
+                            data-action="login-facebook" type="button"> <i class="fa fa-facebook"></i> <span>Login with Facebook</span> </button>
+                    <div class="hr">
+                        <div class="inner">or</div>
+                    </div>
+                    <?php 
+                    echo $this->Form->create('User',array('class'=>'login-form pinhp-form form-validate','id'=>'login-form'));
+                    ?>
+                    <p>
+                        <span aria-hidden="true" class="glyphicon glyphicon-user"></span>
+                        <?php echo $this->Form->input('email',array('div'=>false,'label'=>false,'placeholder'=>'Username or Email'));?>
+                    </p>
+                    <p>
+                        <span aria-hidden="true" class="glyphicon glyphicon-lock"></span>
+                        <?php echo $this->Form->input('password',array('div'=>false,'label'=>false,'class'=>'password','placeholder'=>'Password'));?>
+                    </p>
+                    <p class="logcheck">
+                        <input type="checkbox"> Remember me</p>
+                    <p class="logcheck">
+                        <?php 
+                        echo $this->Form->submit('Login',array('label'=>false,'div'=>false,'class'=>'submit-log'));
+                        echo $this->Html->link('Forgot password?',array(),array('class'=>'forgot'));
+                        ?>
+                    </p>
+                    <?php 
+                    echo $this->Form->end();
+                    ?>
+                    <div class="hr"> </div>
+                    <p>Don&#039;t have an account? 
+                        <?php echo $this->Html->link('Sign up now!',array('/register'),array('data-section-toggle'=>'signup'));?>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div> 
+</div>

@@ -1,0 +1,270 @@
+.desktop{ display:block;}
+.mobile{ display:none;} 
+@media (max-width:1199px) {
+/*.silver-btn {width: auto;}*/
+.silver-btn button{  float: left;
+    font-size: 11px;
+    margin: 3px 0 0 15px; padding: 0 8px;}
+/*.silver-btn1 button	{ width:100%; font-size: 12px;}
+.silver-btn1 {margin: 8px 0 10px;}*/
+.pofile-image p.games {padding: 0;}
+.box4 h3 {   font-size: 19px; line-height: 26px; margin:18px 0 8px 18px}
+button.green-btn{ margin:0 0 0 18px}
+.view-project a{ padding:0 0 8px 7px}
+.post-job1 { margin: 0;}
+.price span { float: left; width: 100%;}
+.container3 { width: 77%;}
+.container4 { width: 64%;}
+.footer-bottom { text-align: center;}
+.aboutus_content{   margin-bottom: 20px; text-align: center;}
+.address {padding: 50px 0 0 15px;}
+.contact-social-icon { padding: 30px 0 0;}
+.contact-section form{ border:none}
+.profile-description2 .service_tab .nav-tabs > li > a{  font-size: 12px;
+    text-align: center; }
+.profile-description .price-range .review .fa-star{ font-size:14px;}
+.my-profile-section ul li{ padding:0 4px 0 0}
+.img-about{ max-width:100%; height:auto;}
+
+}
+
+
+
+
+@media (min-width:992px) and (max-width:1198px)
+{
+.profile-description .price-range .btn-primary{ width:100%;}
+.address { padding: 113px 0 0 15px;}
+}
+
+@media (min-width:999px) and (max-width:1050px){
+
+.nav-section ul li a { font-size: 15px; padding: 24px 14px;}
+
+}
+
+
+
+@media (max-width:999px) {
+.container-section1 {  text-align: center;}
+.box2 img{ padding: 0 0 13px;}
+.box2 { padding: 39px 0 0; text-align: center;}
+/*.container3 { width: 49%;}*/
+.container4 { width: 40%;}
+.footer-top { padding: 60px 0 41px; }
+.footer-top h3 {font-size: 13px;}
+.footer-top ul li a { font-size: 12px; line-height: 20px;}
+.inner-nav-section ul li a{ font-size:14px;}
+.my-profile-section { padding: 21px 0 21px 21px;}
+.desktop{ display:none;}
+.mobile{ display:block;}
+.silver-btn button{  float: left;
+    font-size: 11px;
+    margin: 3px 0 0 15px; padding: 0 6px;}
+
+ 
+.navbar1 {
+    left: -14px;
+    padding: 10px 0 0;
+    position: absolute;
+    top: -31px;
+    width: 70px !important;
+}
+.the-header{ padding:0 !important;}
+.logo {
+    float: right;
+    padding: 9px 0 0;
+    text-align: right;
+}
+.my-profile-section {
+    float: right;
+    padding: 21px 0;
+    text-align: right;
+}
+
+
+
+}
+
+
+@media (min-width:768px) and (max-width:991px)
+{
+.profile-description-inner {border-bottom: 1px solid #e0e2e8; padding: 0 15px 30px;}
+.profile-image{border-bottom: 1px solid #e0e2e8; padding: 0 15px 30px;}
+.star { margin-bottom: 10px;}
+.profile-description2 .recent-review .srvc-review dl {float: none}
+.container3 {width: 50%;}
+.thankyou-msg {font-size: 13px; line-height: 22px; padding: 10px 0 10px 10px; width: 100%;}
+.contact-section form input[type="text"] { width: 100%;}
+.contact-section form textarea {width: 100%;}
+.contact-social-icon ul li a { font-size: 24px; height: 40px; padding: 2px 5px; width: 40px;}
+.profile-image {  border-bottom: none;}
+.profile-description-inner h2 { font-size: 24px;}
+.profile-description-inner { border-bottom: none;}
+.profile-description .price-range { border-top: 1px solid #ccc;}
+.profile-description2 .recent-review .srvc-review { border-bottom: none;  margin: 6% 2% 0; width: 46%;}
+.silver-btn { padding: 0 !important;}
+.box4 h3 {margin: 18px 14px 8px 18px;}
+
+
+
+
+
+
+}
+
+
+
+
+@media (max-width:767px) {
+
+.nav-section { text-align: center;}
+.login-section {/*text-align: center; width: 100%;*/
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+.banner-text { padding: 131px 0 0 15px; width: 100%;}
+.banner-text h1 { font-size: 31px;line-height: 39px;}
+.banner-text p {  font-size: 18px; line-height: 27px; padding: 21px 0 33px;}
+.container-section1 {  text-align: center;}
+.container-section2 h2 { font-size: 30px;}
+.container-section3 h2 { font-size: 30px;}
+.container-section2 h6 {font-weight: 500; line-height: 30px;}
+.container-section3 h6 {font-weight: 500; line-height: 30px;}
+.container3 { width: 305px; }
+.box2 {    padding: 24px 0;    text-align: center;}
+.box2 img{ margin: 0 0 15px;}
+.container4 { width: 220px; /*width:100%*/}
+.login-section ul li {float: none; padding:0 5px 0 1px; line-height:30px;}
+.login-section ul li a.post-job {font-size: 13px; padding:6px 15px}
+.login-section ul li a {font-size: 13px;}
+.social-icon { text-align: center;}
+.social-icon ul li{ display:inline-block; width: auto !important; border-bottom: none !important;}
+.footer-top h3 { font-size: 23px; padding: 28px 0 0; text-align: center;}
+.footer-top ul { text-align:center;}
+.footer-top ul li { border-bottom: 1px dashed #4a4a4a; display: inline-block; line-height: 28px; padding: 4px 0 7px; width: 50%;}
+.banner-text h1 {font-size: 25px;line-height: 32px;}
+.box3 img{ max-width:100%;}
+
+
+.img-about-outer{ text-align:center;}
+.address { padding: 50px 0 0 15px; text-align: center;}
+.contact-social-icon { display: inline-block; text-align: center;}
+
+.thankyou-msg {font-size: 13px; line-height: 22px; padding: 10px 0 10px 10px; width: 100%;}
+.contact-section form input[type="text"] { width: 100%;}
+.contact-section form textarea {width: 100%;}
+
+.contact-social-icon ul li a { font-size: 24px; height: 40px; padding: 2px 5px; width: 40px;}
+.silver-btn button { float: right; margin: 3px 3px 7px; width: 52%;}
+.provider-logo { min-height: 86px;}
+
+
+
+}
+@media (min-width:576px) and (max-width:767px){
+.silver-btn{ width:35%; }
+.silver-btn button { float: right; margin: 3px 3px 7px; width: auto;}
+.profile-description2 .recent-review .srvc-review {
+    float: left;
+    margin: 6% 3% 0;
+    padding-bottom: 30px;
+    width: 44%; border-bottom: none;
+}
+.silver-btn1 {
+    margin: 5px 0 10px;
+    text-align: right;
+    width: 44%;
+}
+
+}
+
+@media (min-width:480px) and (max-width:767px)
+{
+.profile-description2 .service_tab .nav-tabs > li { background: #f2f2f2; margin-bottom: 8px; margin-right: 5px; width: 48%; padding-left:14px;}
+.banner-text button {  font-size: 22px; line-height: 50px; margin: 0 12px 12px 0; width: 46%;}
+
+
+
+
+
+}
+@media (min-width:401px) and (max-width:575px)
+{
+.silver-btn{  padding: 0; width: 41%; }
+.silver-btn button { width: auto;}
+}
+
+@media (min-width:320px) and (max-width:479px)
+{
+.profile-description2 .service_tab .nav-tabs > li { background: #f2f2f2; margin-bottom: 8px; margin-right: 5px; width: 100%; padding-left:14px;}
+.profile-description2 .btn-default { font-size: 12px; margin: 6px 0; padding: 10px; width: 100%;}
+.profile-description2 .services .country .pull-right{ width:100%}
+.banner-text button { font-size: 22px; line-height: 50px; margin: 0 12px 12px 0; width: 100%;}
+}
+
+
+@media (max-width:400px) {
+.box3 { float: left; min-height: auto; width: 100%; padding:48px 14px 27px;}
+.container3 { width: 100%;}
+.box3-btn {width: 100%; line-height: 46px;}
+.box3-btn a { font-size: 21px; width: 100%;}
+.footer-bottom { padding: 34px 0 40px;}
+.silver-btn{ width:100%;}
+.silver-btn button { margin: 3px 3px 7px; width: 100%;}
+}
+
+@media (min-width:320px) and (max-width:767px)
+{
+.inner-nav-section ul{ display:none}
+.inner-nav-section ul li { background: #f2f2f2; border-bottom: 1px solid #c2c6cc; float: left; padding: 0; width: 100%;}
+.inner-nav-section ul li a { color: #000000; padding: 0 0 10px 10px;	}
+.inner-nav-section ul li a:hover{ border:none; color:#17a1e6;}	
+.inner-nav-section ul li a.active{border:none; color:#17a1e6;}
+.inner-nav-section .col-xs-12{ padding:0px}
+.my-profile-section{ padding:21px 0px; text-align: right;}
+.inner-banner-text { padding: 80px 0 0 15px; width: 100%;}
+.inner-banner-text h1 { font-size: 32px; line-height: 36px;}
+.inner-banner-text p {font-size: 22px}
+.inner-content-section h2 { font-size: 26px;}
+.thankyou-msg { font-size: 13px; line-height: 22px; width: 100%; padding:10px;}
+.contact-section form input[type="text"]{ width:100%}
+.contact-section form textarea{ width:100%}
+.silver-btn1 { margin: 5px 0 10px;}
+.pofile-image p.language { padding: 15px 0 0;}
+.profile-description-inner {border-bottom: 1px solid #e0e2e8; padding: 0 15px 30px; text-align:center;}
+.profile-image{border-bottom: 1px solid #e0e2e8; padding: 0 15px 30px;}
+/*.profile-description2 .service_tab .nav-tabs > li > a{ font-size:14px;}*/
+.star { margin-bottom: 10px;}
+.profile-description2 .recent-review .srvc-review dl {float: none}
+.profile-description2 .services .country h3 { font-size: 14px;}
+/*.profile-description2 .btn-default{ font-size:11px;}*/
+.profile-description2 .col-lg-8{ padding-right:0px;}
+.profile-description2 .service_tab .demonstration {margin-left: 15px;}
+.profile-description2 .service_tab .nav-tabs{ border:none}
+.profile-description2 .service_tab .nav-tabs > li.active > a, .profile-description2 .service_tab .nav-tabs > li.active > a:focus, .profile-description2 .service_tab .nav-tabs > li.active > a:hover{ border:none; padding-bottom: 11px; background:url("../images/arrow.png") no-repeat center bottom}
+.profile-description2 .service_tab .nav-tabs > li > a{  padding-bottom: 11px;}
+.profile-description-inner h2 { /* float: left;*/ font-size: 18px;padding: 16px 0 16px;}
+.profile-description-inner h5 { /* float: left;*/  font-size: 16px;padding: 0 0 16px;}
+.profile-description-inner p{  padding: 0 0 16px; float:left;}
+.profile-description-inner div.availibility { padding: 0 0 30px; float:left}
+.profile-description .price-range .btn-primary{ width:100%}
+.profile-description-inner .verified { float: left; margin-bottom: 20px; margin-top: 0;}
+
+.profile-image-container { text-align: center;}
+.profile-description-inner .verified { width: 100%;}
+.profile-description-inner div.availibility { text-align: center; width: 100%;}
+
+
+
+
+
+
+}
+
+
+
+
+
+
